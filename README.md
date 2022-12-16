@@ -1,6 +1,8 @@
 # Exploratory-Data-Analysis-on-Online-Payment-Fraud-Detection
 Exploratory Data Analysis and Data Visualization on the Online Payment Fraud Detection using Python
-
+<p align="center">
+<img src="https://m6r6k8y2.rocketcdn.me/wp-content/uploads/2020/12/cyber-theft-senior-fraud-GIF.gif" width="400" height="300" />
+</p>
 With the increase of online payment now-a-days, the online payment fraud has also been rising and it's actually a major concern among the people who are not aware of the current technologies.
 
 I've analyzed about the online payment fraud detection dataset taken from Kaggle and provided my insights.
